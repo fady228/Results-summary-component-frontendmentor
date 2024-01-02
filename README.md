@@ -14,7 +14,7 @@ Users should be able to:
 ### Links
 
 - [Solution](https://your-solution-url.com)
-- [Live Site]([https://your-live-site-url.com](https://fady228.github.io/Results-summary-component-frontendmentor/))
+- [Live Site](https://fady228.github.io/Results-summary-component-frontendmentor/)
 
 ### Built with
 
